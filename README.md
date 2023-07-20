@@ -23,4 +23,4 @@ Realizar pesquisas periódicas com os empreendedores para obter feedback detalha
  Incentivar a participação de um público mais diversificado, promovendo iniciativas para apoiar e atrair empreendedores de diferentes gêneros e origens educacionais.
 Essas sugestões podem ajudar a aprimorar o programa de aceleração, tornando-o ainda mais efetivo e relevante para as startups participantes, bem como para o ecossistema empreendedor como um todo.
 
-Fiz minha análise tratamento e dashboard no python e também fiz meu dashboard no power bi fiz algumas fórmulas em DAX para achar a média da soma dos faturamentos antes e depois.
+Fiz minha análise, tratamento e dashboard no python e também fiz meu dashboard no power bi fiz algumas fórmulas em DAX para achar a média da soma dos faturamentos antes e depois. a extensão do power bi está em .pbix e os arquivos .png foram gerandos a partir da biblioteca do  python todo o desenvolviemento está na extensão .ipynb
